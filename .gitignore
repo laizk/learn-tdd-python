@@ -1,0 +1,4 @@
+env
+.pytest_*
+flaskner.egg-info
+__pycache__
